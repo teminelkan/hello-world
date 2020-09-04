@@ -4,3 +4,4 @@
 Agile seems fine without DevOps until deployment comes into d picture but for sure, without Agile, there is no devops.
 
 
+
